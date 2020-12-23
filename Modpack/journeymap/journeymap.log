@@ -1,0 +1,83 @@
+[16:09:47] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[16:09:47] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[16:09:47] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:09:47] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.7.1, built with Forge 14.23.5.2768
+Forge: 14.23.5.2854
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.7.1, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, systemTimeRealFormat=HH:mm:ss, shape=Circle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.7.1, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, systemTimeRealFormat=HH:mm:ss, shape=Rectangle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.7.1, mobDisplay=Small Dots, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.7.1, autoRemoveDeathpointDistance=2, createDeathpoints=true, showName=true, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, minDistance=4, timeFormat=HH:mm:ss, boldLabel=false, textureSmall=true, showDeathpointlabel=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.7.1, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.7.1, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
+[16:09:47] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[16:09:47] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[16:09:47] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[16:09:48] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[16:09:49] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[16:09:59] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:10:00] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[16:10:00] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:10:00] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0. Memory: 3559MB total, 1822MB free 
+[16:10:00] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[16:13:45] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM-1
+[16:13:45] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:13:45] [Client thread/INFO] [WaypointStore] Loaded 1 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:13:45] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM-1. Memory: 4211MB total, 1752MB free 
+[16:13:56] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0
+[16:13:56] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:13:56] [Client thread/INFO] [WaypointStore] Loaded 1 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:13:56] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0. Memory: 4259MB total, 2080MB free 
+[16:14:02] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM-1
+[16:14:02] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:14:02] [Client thread/INFO] [WaypointStore] Loaded 1 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:14:02] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM-1. Memory: 4259MB total, 1497MB free 
+[16:14:04] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0
+[16:14:04] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:14:04] [Client thread/INFO] [WaypointStore] Loaded 1 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:14:04] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0. Memory: 4259MB total, 1276MB free 
+[16:23:22] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0
+[16:25:54] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:25:54] [Client thread/INFO] [WaypointStore] Loaded 1 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:25:54] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0. Memory: 3852MB total, 2551MB free 
+[16:26:37] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM-1
+[16:26:37] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:26:37] [Client thread/INFO] [WaypointStore] Loaded 1 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:26:37] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM-1. Memory: 3724MB total, 639MB free 
+[16:26:41] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0
+[16:26:41] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:26:41] [Client thread/INFO] [WaypointStore] Loaded 1 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:26:41] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0. Memory: 3838MB total, 1340MB free 
+[16:31:46] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM-1
+[16:31:46] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:31:46] [Client thread/INFO] [WaypointStore] Loaded 1 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:31:46] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM-1. Memory: 3826MB total, 2275MB free 
+[16:33:47] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0
+[16:33:47] [Client thread/INFO] [StateTickHandler] Agreed1002 died at BlockPos{x=-141, y=50, z=-95}. Deathpoints enabled: true. Deathpoint created: true
+[16:33:49] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:33:49] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:33:49] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0. Memory: 3894MB total, 2371MB free 
+[16:33:52] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM-1
+[16:33:52] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:33:52] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:33:52] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM-1. Memory: 3894MB total, 1170MB free 
+[16:34:56] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0
+[16:34:56] [Client thread/INFO] [StateTickHandler] Agreed1002 died at BlockPos{x=30, y=31, z=101}. Deathpoints enabled: true. Deathpoint created: true
+[16:34:57] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:34:57] [Client thread/INFO] [WaypointStore] Loaded 4 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:34:57] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0. Memory: 3792MB total, 2272MB free 
+[16:42:17] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0
+[16:51:12] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:51:12] [Client thread/INFO] [WaypointStore] Loaded 4 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[16:51:12] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0. Memory: 3930MB total, 2217MB free 
+[16:57:30] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0
+[17:00:06] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\waypoints
+[17:00:06] [Client thread/INFO] [JourneymapClient] Mapping started in D:\curseforge\Instances\Modpack\journeymap\data\mp\My~Server\DIM0. Memory: 3755MB total, 2036MB free 
